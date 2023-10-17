@@ -1,5 +1,2 @@
-image: gitpod/workspace-python-3.11:latest
-
-tasks:
-  - before: pip3 install -r requirements.txt
-  - before: pip install --upgrade pip
+image:
+  file: .gitpod.Dockerfile
