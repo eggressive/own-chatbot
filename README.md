@@ -2,4 +2,4 @@
 
 ChatGPT and Langchain-based chatbot
 
-Powered by Python `3.12.0`
+Powered by Python `3.11.0`
